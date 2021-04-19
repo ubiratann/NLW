@@ -1,0 +1,11 @@
+{
+  "name": "NLW",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ubiratann/NLW.git",
+  "author": "Ubiratan Junior <r14.ubiratanjunior@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
